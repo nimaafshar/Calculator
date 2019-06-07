@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="ac_button_text">AC</string>
+    <style name="row_min_width">100dp</style>
+</resources>
